@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.license      = "FREE"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "trietho@gmail.com" }
-  s.platform     = :ios, "7.0"
+  s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/trietho/react-native-a-beep.git", :tag => "master" }
   s.source_files  = "**/*.{h,m}"
   s.requires_arc = true
